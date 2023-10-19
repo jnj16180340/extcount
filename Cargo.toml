@@ -4,6 +4,7 @@ version = "1.0.0"
 edition = "2021"
 description = "Summarize the file extensions in a path, with estimated MIME types and average size per extension"
 license = "MIT"
+repository = "git@github.com:jnj16180340/extcount.git"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
