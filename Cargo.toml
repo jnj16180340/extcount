@@ -7,5 +7,6 @@ edition = "2021"
 
 [dependencies]
 clap = "4.4.6"
+incr_stats = "1.0.1"
 prettytable-rs = "0.10.0"
 tree_magic = "0.2.3"
